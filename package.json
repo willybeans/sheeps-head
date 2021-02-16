@@ -16,7 +16,6 @@
   "lint-staged": {
     "*.{js,jsx,ts,tsx,json,css}": [
       "eslint --fix",
-      "git add",
       "jest --bail --findRelatedTests"
     ]
   },
