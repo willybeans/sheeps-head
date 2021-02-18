@@ -3,7 +3,7 @@ import './index.sass'
 
 const App = (): JSX.Element => {
 	return (
-		<div>Sheeps head App</div>
+		<div>Sheeps head Appetizer</div>
 	)
 }
 
