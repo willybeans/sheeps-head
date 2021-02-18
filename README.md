@@ -31,3 +31,8 @@ Vim: Add :set backupcopy=yes to your settings.
     - CI/CD pipeline that digests jest tests 
 
 #### LMK if any of this does not seem to belong in an MVP
+
+#### Random features that could be cool after MVP
+  - 3d board games
+  - a way for people to generate their own games/rules 
+  - using block chain for something...? idk could be fun to learn/implement 
