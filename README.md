@@ -31,6 +31,14 @@ Vim: Add :set backupcopy=yes to your settings.
     - CI/CD pipeline that digests jest tests 
 
 #### LMK if any of this does not seem to belong in an MVP
+##### MVP:
+ - No accounts, just guest users
+ - Guest user can use the Server to generate a room to play the game
+ - Generated room link can be shared with other players
+ - Create a subscription(maybe thats the wrong name?) with apollo to allow real time game changes from the server to all the users
+ - very basic 3d canvas for the game that can be expanded on later
+ - Game module with rules / game logic
+ - Backend to store the game data
 
 #### Random features that could be cool after MVP
   - 3d board games
